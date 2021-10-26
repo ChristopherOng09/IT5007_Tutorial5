@@ -15,7 +15,7 @@ Tutorial 5 submission for IT5007
 
 - Ensure that localhost port 3000, 5000 and 27017 are available
 
-Note: Please ensure the node version installed is below version 17 (Important).
+Note: Please ensure the node version installed is above version 12 and below version 17 (Important).
 
 ## Setup
 
