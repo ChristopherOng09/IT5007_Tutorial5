@@ -9,7 +9,7 @@ Tutorial 5 submission for IT5007
 
 - Download and install version manager for node
     A. npm install n -g
-    B. n stable - (as of 26 Oct 2021, this will install node version 14+)
+    B. n stable - as of 26 Oct 2021, this will install node version 14+
 
 - Download and install MongoDB 
 
