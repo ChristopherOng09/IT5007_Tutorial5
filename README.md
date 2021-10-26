@@ -22,7 +22,7 @@ Note: Please ensure the node version installed is below version 17 (Important).
 1. Clone this repo onto your client machine
 2. cd into server folder
 3. npm install - To install the node modules in the server folder
-4. cd into client doler
+4. cd into client folder
 5. npm install - To install the node modules in the client folder
 
 ## Execution 
