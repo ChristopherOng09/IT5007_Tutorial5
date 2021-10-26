@@ -3,12 +3,12 @@
 Tutorial 5 submission for IT5007
 
 ## Prerequisite
-- Download and install npm 
-    A. sudo apt update
+- Download and install npm \
+    A. sudo apt update\
     B. sudo apt install nodejs npm
 
-- Download and install version manager for node
-    A. npm install n -g
+- Download and install version manager for node\
+    A. npm install n -g\
     B. n stable - as of 26 Oct 2021, this will install node version 14+
 
 - Download and install MongoDB 
