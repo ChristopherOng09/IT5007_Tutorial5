@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    align-items: center;
+}
+
+.company {
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    padding: 20px;
+}
+
+.buttonStyle {
+    border: none;
+    opacity: 0.5;
+    margin: 0px 0px 0px 8%;
+}
+
+.buttonStyle button {
+    color: #716F81;
+    border: none;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.5rem;
+}
+ 
+.buttonStyle button:hover {
+    color: black;
+    font-weight: bolder;
+}
+
+.buttonStyle:hover {
+    opacity: 1;
+    border-bottom: 5px solid #3DB2FF;
+}
+

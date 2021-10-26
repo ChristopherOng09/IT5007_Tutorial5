@@ -1,0 +1,14 @@
+.roomInfo {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+    justify-content: space-evenly;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 2.0rem;
+  }
+
+.selectBox {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 1.5rem;
+}
+

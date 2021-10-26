@@ -1,0 +1,15 @@
+.feedback {
+    margin-top: 3%;
+    text-align: center;
+    display: block;
+    font-size: 2rem;
+    font-weight: bolder;
+  }
+  
+  .feedback .success {
+    color: green;
+  }
+  
+  .feedback .failure {
+    color: red;
+  }
